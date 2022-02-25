@@ -14,9 +14,7 @@ The rider also has the option to get the order cancelled before delivery by call
 
 ![Logo](https://global-uploads.webflow.com/5f4b7e375695f50f9f0ffbb5/6208e800cfa704af82aac3fd_Shadowfax.png)
 
-## Acknowledgements
 
- - [Consulting and Analytics club, IIT Guwahati](http://iitg.ac.in/sa/caciitg/)
  
 
 ##  Data set information
@@ -65,4 +63,8 @@ session_time: total time the rider had been online on order_date before order_ti
 ## Roadmap
 
 ![Roadmap](https://user-images.githubusercontent.com/75658391/155750389-2f02c7f9-fbe3-4d4c-b1c8-ea10474a7cc6.jpg)
+
+## Acknowledgements
+
+ - [Consulting and Analytics club, IIT Guwahati](http://iitg.ac.in/sa/caciitg/)
 
