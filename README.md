@@ -64,7 +64,5 @@ session_time: total time the rider had been online on order_date before order_ti
 
 ## Roadmap
 
-- Additional browser support
-
-- Add more integrations
+![Roadmap](https://user-images.githubusercontent.com/75658391/155750389-2f02c7f9-fbe3-4d4c-b1c8-ea10474a7cc6.jpg)
 
